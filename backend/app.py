@@ -1,11 +1,3 @@
-"""
-Dow Digital Hackathon 2018
-Team Chirp
-Author: Bradley Chippi
-GitHub Repo: https://github.com/BChip/chirp
-Date: 10/24/2018
-Purpose: Backend for Chirp Application
-"""
 import json
 import os
 import time
